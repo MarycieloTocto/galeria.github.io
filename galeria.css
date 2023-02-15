@@ -1,0 +1,47 @@
+    h1{
+        text-align: center;
+    }
+    .imagenes {
+        display: flex;
+        align-items: center;
+        text-align: center;
+    }
+    .foto1 {
+        margin: 5px;
+        background-color: #f79e6e;
+        padding: 10px;
+    }
+    .foto2 {
+        margin: 5px;
+        background-color: #f79e6e;
+        padding: 10px;
+    }
+    .foto3 {
+        margin: 5px;
+        background-color: #f79e6e;
+        padding: 10px;
+    }
+    .foto4 {
+        margin: 5px;
+        background-color: #f79e6e;
+        padding: 10px;
+    }
+    .foto5 {
+        margin: 5px;
+        background-color: #f79e6e;
+        padding: 10px;
+    }
+    .foto6 {
+        margin: 5px;
+        background-color: #f79e6e;
+        padding: 10px;
+    }
+    .foto7 {
+        margin: 5px;
+        background-color: #f79e6e;
+        padding: 10px;
+    }
+img {
+    width: 100px;
+    height: 100px;
+}
